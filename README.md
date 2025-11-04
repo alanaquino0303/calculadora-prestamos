@@ -56,8 +56,7 @@ Para compilar y ejecutar el programa necesitas:
 1. Abre CMD o PowerShell en el directorio del archivo.
 2. Compila con:
 
-
-  ```bash
+   ```bash
    gcc calculadora_prestamos.c -o calculadora.exe -lm
    ```
 
