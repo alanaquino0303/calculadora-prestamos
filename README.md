@@ -20,16 +20,14 @@ Este proyecto es una **calculadora de préstamos** desarrollada en el lenguaje C
 ```
 / calculadora-prestamos
 ├─ calculadora_prestamos.c       # Código fuente principal.
-├─ README.md                     # Documentación del proyecto.
+└─ README.md                     # Documentación del proyecto.
 ```
 
 ---
 
 ## Requisitos
 
-Para compilar y ejecutar el programa necesitas:
-
-- Un compilador C (por ejemplo, **GCC** o **Clang**).
+- Un compilador C (**GCC** o **Clang**).
 - Librería matemática (`-lm`), ya que se utilizan funciones de la biblioteca `<math.h>`.
 
 ---
@@ -39,7 +37,7 @@ Para compilar y ejecutar el programa necesitas:
 ### En Linux o macOS
 
 1. Abre una terminal en la carpeta donde se encuentra el archivo.
-2. Compila el programa con:
+2. Compila el programa:
 
    ```bash
    gcc calculadora_prestamos.c -o calculadora -lm
@@ -53,8 +51,8 @@ Para compilar y ejecutar el programa necesitas:
 
 ### En Windows
 
-1. Abre CMD o PowerShell en el directorio del archivo.
-2. Compila con:
+1. Abre una terminal en el directorio del archivo.
+2. Compila el programa:
 
    ```bash
    gcc calculadora_prestamos.c -o calculadora.exe -lm
