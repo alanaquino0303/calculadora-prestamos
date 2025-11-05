@@ -51,7 +51,7 @@ Este proyecto es una **calculadora de préstamos** desarrollada en el lenguaje C
 
 ### En Windows
 
-1. Abre una terminal en el directorio del archivo.
+1. En una terminal dirígete al directorio del archivo.
 2. Compila el programa:
 
    ```bash
